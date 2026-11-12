@@ -11,8 +11,8 @@ Focus areas: **GPU Computing (CUDA)**, **Computational Neuroscience**, and **Opt
 ### 🔬 Optics Simulation (Julia)
 * **[BeamletOpticsPrescriptionIO.jl](https://github.com/7BitLogic/BeamletOpticsPrescriptionIO.jl)** *(Julia)*  
   Helper package to import optical prescriptions from external sources into `BeamletOptics.jl` (BMO).
-* **[BeamletOptics.jl](https://github.com/7BitLogic/BeamletOptics.jl)** *(Julia – Fork)*  
-  Optics simulation in Julia using geometrical and Gaussian beamlet tracing for lasers, beam propagation, and optical systems.
+* **[BeamletOpticsFourierDet.jl](https://github.com/7BitLogic/BeamletOpticsFourierDet.jl)** *(Julia)*  
+  Add on to BeamletOptics to introduce fast 1d through 4d detectors and field simulations. 
 
 ### 📂 Additional Projects & Archive
 * **[AKEA](https://github.com/7BitLogic/AKEA)** *(Python)*  
